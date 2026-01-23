@@ -34,6 +34,7 @@ public:
  */
 
  int main(){
+MyQueue obj ;
 
-    
+     
  }
